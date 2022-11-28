@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @353mss
 
-Im a little coder (btw im not the good)
+Im a little coder (btw im not that good)
 
 I just make random stuff
 <!---
